@@ -1,0 +1,872 @@
+[
+  {
+    "login": "rumenov",
+    "rel_comm_add": 72,
+    "rel_comm_del": 80,
+    "rel_comm_total": 84
+  },
+  {
+    "login": "levsha",
+    "rel_comm_add": 32,
+    "rel_comm_del": 31,
+    "rel_comm_total": 39
+  },
+  {
+    "login": "roman-kashitsyn",
+    "rel_comm_add": 25,
+    "rel_comm_del": 16,
+    "rel_comm_total": 27
+  },
+  {
+    "login": "marko-k0",
+    "rel_comm_add": 19,
+    "rel_comm_del": 18,
+    "rel_comm_total": 22
+  },
+  {
+    "login": "ulan",
+    "rel_comm_add": 27,
+    "rel_comm_del": 19,
+    "rel_comm_total": 28
+  },
+  {
+    "login": "tthebst",
+    "rel_comm_add": 38,
+    "rel_comm_del": 27,
+    "rel_comm_total": 40
+  },
+  {
+    "login": "aterga",
+    "rel_comm_add": 58,
+    "rel_comm_del": 43,
+    "rel_comm_total": 63
+  },
+  {
+    "login": "nikolay-komarevskiy",
+    "rel_comm_add": 29,
+    "rel_comm_del": 17,
+    "rel_comm_total": 30
+  },
+  {
+    "login": "adambratschikaye",
+    "rel_comm_add": 20,
+    "rel_comm_del": 15,
+    "rel_comm_total": 22
+  },
+  {
+    "login": "gregorydemay",
+    "rel_comm_add": 55,
+    "rel_comm_del": 42,
+    "rel_comm_total": 57
+  },
+  {
+    "login": "dsd-at-dfinity",
+    "rel_comm_add": 12,
+    "rel_comm_del": 11,
+    "rel_comm_total": 13
+  },
+  {
+    "login": "EnzoPlayer0ne",
+    "rel_comm_add": 9,
+    "rel_comm_del": 7,
+    "rel_comm_total": 9
+  },
+  {
+    "login": "basvandijk",
+    "rel_comm_add": 16,
+    "rel_comm_del": 18,
+    "rel_comm_total": 24
+  },
+  {
+    "login": "rikonor",
+    "rel_comm_add": 14,
+    "rel_comm_del": 12,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "Dfinity-skaestle",
+    "rel_comm_add": 13,
+    "rel_comm_del": 8,
+    "rel_comm_total": 13
+  },
+  {
+    "login": "maksymar",
+    "rel_comm_add": 18,
+    "rel_comm_del": 14,
+    "rel_comm_total": 19
+  },
+  {
+    "login": "randombit",
+    "rel_comm_add": 21,
+    "rel_comm_del": 13,
+    "rel_comm_total": 22
+  },
+  {
+    "login": "DanielThurau",
+    "rel_comm_add": 25,
+    "rel_comm_del": 21,
+    "rel_comm_total": 27
+  },
+  {
+    "login": "Bownairo",
+    "rel_comm_add": 19,
+    "rel_comm_del": 17,
+    "rel_comm_total": 26
+  },
+  {
+    "login": "daniel-wong-dfinity-org",
+    "rel_comm_add": 16,
+    "rel_comm_del": 12,
+    "rel_comm_total": 17
+  },
+  {
+    "login": "max-dfinity",
+    "rel_comm_add": 23,
+    "rel_comm_del": 21,
+    "rel_comm_total": 26
+  },
+  {
+    "login": "mraszyk",
+    "rel_comm_add": 28,
+    "rel_comm_del": 21,
+    "rel_comm_total": 31
+  },
+  {
+    "login": "dfinity-berestovskyy",
+    "rel_comm_add": 23,
+    "rel_comm_del": 18,
+    "rel_comm_total": 25
+  },
+  {
+    "login": "alin-at-dfinity",
+    "rel_comm_add": 12,
+    "rel_comm_del": 10,
+    "rel_comm_total": 12
+  },
+  {
+    "login": "dsarlis",
+    "rel_comm_add": 11,
+    "rel_comm_del": 9,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "eichhorl",
+    "rel_comm_add": 3,
+    "rel_comm_del": 4,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "anchpop",
+    "rel_comm_add": 42,
+    "rel_comm_del": 25,
+    "rel_comm_total": 42
+  },
+  {
+    "login": "mbjorkqvist",
+    "rel_comm_add": 29,
+    "rel_comm_del": 26,
+    "rel_comm_total": 32
+  },
+  {
+    "login": "leokazz",
+    "rel_comm_add": 28,
+    "rel_comm_del": 19,
+    "rel_comm_total": 32
+  },
+  {
+    "login": "MarioDfinity",
+    "rel_comm_add": 14,
+    "rel_comm_del": 6,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "zoran-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "altkdf",
+    "rel_comm_add": 33,
+    "rel_comm_del": 32,
+    "rel_comm_total": 33
+  },
+  {
+    "login": "Daniel-Bloom-dfinity",
+    "rel_comm_add": 4,
+    "rel_comm_del": 4,
+    "rel_comm_total": 4
+  },
+  {
+    "login": "fspreiss",
+    "rel_comm_add": 14,
+    "rel_comm_del": 16,
+    "rel_comm_total": 17
+  },
+  {
+    "login": "Sawchord",
+    "rel_comm_add": 11,
+    "rel_comm_del": 11,
+    "rel_comm_total": 12
+  },
+  {
+    "login": "ielashi",
+    "rel_comm_add": 2,
+    "rel_comm_del": 1,
+    "rel_comm_total": 2
+  },
+  {
+    "login": "AlexandraZapuc",
+    "rel_comm_add": 14,
+    "rel_comm_del": 13,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "chmllr",
+    "rel_comm_add": 7,
+    "rel_comm_del": 7,
+    "rel_comm_total": 8
+  },
+  {
+    "login": "NikolasHai",
+    "rel_comm_add": 9,
+    "rel_comm_del": 4,
+    "rel_comm_total": 9
+  },
+  {
+    "login": "schneiderstefan",
+    "rel_comm_add": 8,
+    "rel_comm_del": 4,
+    "rel_comm_total": 9
+  },
+  {
+    "login": "jasonz-dfinity",
+    "rel_comm_add": 45,
+    "rel_comm_del": 34,
+    "rel_comm_total": 50
+  },
+  {
+    "login": "stiegerc",
+    "rel_comm_add": 14,
+    "rel_comm_del": 12,
+    "rel_comm_total": 16
+  },
+  {
+    "login": "pakhomov-dfinity",
+    "rel_comm_add": 5,
+    "rel_comm_del": 2,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "ninegua",
+    "rel_comm_add": 1,
+    "rel_comm_del": 1,
+    "rel_comm_total": 1
+  },
+  {
+    "login": "dfinity-ryancroote",
+    "rel_comm_add": 3,
+    "rel_comm_del": 3,
+    "rel_comm_total": 3
+  },
+  {
+    "login": "yvonneanne",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "qj-yu",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "cgundy",
+    "rel_comm_add": 24,
+    "rel_comm_del": 24,
+    "rel_comm_total": 32
+  },
+  {
+    "login": "eust-dfinity",
+    "rel_comm_add": 12,
+    "rel_comm_del": 8,
+    "rel_comm_total": 12
+  },
+  {
+    "login": "nathanosdev",
+    "rel_comm_add": 12,
+    "rel_comm_del": 9,
+    "rel_comm_total": 12
+  },
+  {
+    "login": "r-birkner",
+    "rel_comm_add": 8,
+    "rel_comm_del": 6,
+    "rel_comm_total": 10
+  },
+  {
+    "login": "przydatek",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "frederikrothenberger",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "hcbdfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "sasa-tomic",
+    "rel_comm_add": 7,
+    "rel_comm_del": 7,
+    "rel_comm_total": 9
+  },
+  {
+    "login": "mahir-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "kpop-dfinity",
+    "rel_comm_add": 22,
+    "rel_comm_del": 17,
+    "rel_comm_total": 24
+  },
+  {
+    "login": "rstout",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "maciejdfinity",
+    "rel_comm_add": 16,
+    "rel_comm_del": 13,
+    "rel_comm_total": 18
+  },
+  {
+    "login": "venkkatesh-sekar",
+    "rel_comm_add": 13,
+    "rel_comm_del": 9,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "andrewbattat",
+    "rel_comm_add": 4,
+    "rel_comm_del": 4,
+    "rel_comm_total": 6
+  },
+  {
+    "login": "blind-oracle",
+    "rel_comm_add": 24,
+    "rel_comm_del": 21,
+    "rel_comm_total": 27
+  },
+  {
+    "login": "fxgst",
+    "rel_comm_add": 26,
+    "rel_comm_del": 23,
+    "rel_comm_total": 33
+  },
+  {
+    "login": "jean-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "DSharifi",
+    "rel_comm_add": 16,
+    "rel_comm_del": 13,
+    "rel_comm_total": 16
+  },
+  {
+    "login": "michael-weigelt",
+    "rel_comm_add": 14,
+    "rel_comm_del": 11,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "rsubramaniyam",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "dist1ll",
+    "rel_comm_add": 11,
+    "rel_comm_del": 11,
+    "rel_comm_total": 11
+  },
+  {
+    "login": "marcin-dziadus",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "dragoljub-duric",
+    "rel_comm_add": 5,
+    "rel_comm_del": 2,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "rrkapitz",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "raymondk",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "derlerd-dfinity",
+    "rel_comm_add": 3,
+    "rel_comm_del": 1,
+    "rel_comm_total": 3
+  },
+  {
+    "login": "tmu0",
+    "rel_comm_add": 4,
+    "rel_comm_del": 3,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "ShuoWangNSL",
+    "rel_comm_add": 5,
+    "rel_comm_del": 2,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "khushboo-dfn",
+    "rel_comm_add": 3,
+    "rel_comm_del": 3,
+    "rel_comm_total": 3
+  },
+  {
+    "login": "dralves",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "gitlab-dfinity",
+    "rel_comm_add": 28,
+    "rel_comm_del": 28,
+    "rel_comm_total": 28
+  },
+  {
+    "login": "colonelpanic8",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "andreacerulli",
+    "rel_comm_add": 1,
+    "rel_comm_del": 1,
+    "rel_comm_total": 1
+  },
+  {
+    "login": "stefanneamtu",
+    "rel_comm_add": 11,
+    "rel_comm_del": 10,
+    "rel_comm_total": 14
+  },
+  {
+    "login": "jplevyak",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "kobi-lizard",
+    "rel_comm_add": 7,
+    "rel_comm_del": 6,
+    "rel_comm_total": 7
+  },
+  {
+    "login": "dfinityianblenke",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "bitdivine",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "yotamhc",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "alejandrodfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "keplervital",
+    "rel_comm_add": 1,
+    "rel_comm_del": 1,
+    "rel_comm_total": 1
+  },
+  {
+    "login": "joeodfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "garym-dfinity",
+    "rel_comm_add": 5,
+    "rel_comm_del": 1,
+    "rel_comm_total": 5
+  },
+  {
+    "login": "nzoghb",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "nikola-milosa",
+    "rel_comm_add": 3,
+    "rel_comm_del": 2,
+    "rel_comm_total": 3
+  },
+  {
+    "login": "alexandru-uta",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 1
+  },
+  {
+    "login": "m4rtinkoenig",
+    "rel_comm_add": 6,
+    "rel_comm_del": 6,
+    "rel_comm_total": 7
+  },
+  {
+    "login": "robin-kunzler",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "nabdullindfinity",
+    "rel_comm_add": 5,
+    "rel_comm_del": 3,
+    "rel_comm_total": 6
+  },
+  {
+    "login": "manudrijvers",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "LaraAS",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "hugolgst",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "Luka-DFINITY",
+    "rel_comm_add": 2,
+    "rel_comm_del": 0,
+    "rel_comm_total": 2
+  },
+  {
+    "login": "sesi200",
+    "rel_comm_add": 1,
+    "rel_comm_del": 1,
+    "rel_comm_total": 1
+  },
+  {
+    "login": "dfinity-bot",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "Mrngilles",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "lwshang",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "mstein-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "martina-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "geekmush",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "ggreif",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "pietrodimarco-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "BenjaminLoison",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "bogwar",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "DFINITYManu",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "THLO",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "bjoernek",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "dskloetd",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "farazshaikh",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "TerrorJack",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "georgi-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "oggy-dfin",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "ryancammer",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "tmshlvck",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "Dfinity-Bjoern",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "eduarddfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "ericswanson-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "anandsuresh",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "benradf",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "hldfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "jwndlng",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "janeshchhabra",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "jeff-anderson-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "jwiegley",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "krpeacock",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "mstrasinskis",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "smallstepman",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "rzakrzyk",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "rsundar01",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "chenyan-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "lmuntaner",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "dietersommer",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "googleson78",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "aumayrlukas",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "letmejustputthishere",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "roelstorms",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "SamuelChien123",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  },
+  {
+    "login": "victorshoup-dfinity",
+    "rel_comm_add": 0,
+    "rel_comm_del": 0,
+    "rel_comm_total": 0
+  }
+]

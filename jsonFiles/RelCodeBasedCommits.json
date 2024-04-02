@@ -1,0 +1,1017 @@
+[
+  {
+    "login": "rumenov",
+    "total_files_effected": 973,
+    "line_additions": 7077,
+    "line_deletions": 23465,
+    "line_changes": 30542
+  },
+  {
+    "login": "levsha",
+    "total_files_effected": 61,
+    "line_additions": 163,
+    "line_deletions": 195,
+    "line_changes": 358
+  },
+  {
+    "login": "roman-kashitsyn",
+    "total_files_effected": 166,
+    "line_additions": 4912,
+    "line_deletions": 1228,
+    "line_changes": 6140
+  },
+  {
+    "login": "marko-k0",
+    "total_files_effected": 59,
+    "line_additions": 2019,
+    "line_deletions": 603,
+    "line_changes": 2622
+  },
+  {
+    "login": "ulan",
+    "total_files_effected": 135,
+    "line_additions": 4015,
+    "line_deletions": 924,
+    "line_changes": 4939
+  },
+  {
+    "login": "tthebst",
+    "total_files_effected": 290,
+    "line_additions": 6283,
+    "line_deletions": 2644,
+    "line_changes": 8927
+  },
+  {
+    "login": "aterga",
+    "total_files_effected": 251,
+    "line_additions": 17236,
+    "line_deletions": 6948,
+    "line_changes": 24184
+  },
+  {
+    "login": "nikolay-komarevskiy",
+    "total_files_effected": 173,
+    "line_additions": 2629,
+    "line_deletions": 1848,
+    "line_changes": 4477
+  },
+  {
+    "login": "adambratschikaye",
+    "total_files_effected": 213,
+    "line_additions": 4230,
+    "line_deletions": 1006,
+    "line_changes": 5236
+  },
+  {
+    "login": "gregorydemay",
+    "total_files_effected": 322,
+    "line_additions": 14434,
+    "line_deletions": 4839,
+    "line_changes": 19273
+  },
+  {
+    "login": "dsd-at-dfinity",
+    "total_files_effected": 42,
+    "line_additions": 1619,
+    "line_deletions": 829,
+    "line_changes": 2448
+  },
+  {
+    "login": "EnzoPlayer0ne",
+    "total_files_effected": 73,
+    "line_additions": 1196,
+    "line_deletions": 964,
+    "line_changes": 2160
+  },
+  {
+    "login": "basvandijk",
+    "total_files_effected": 112,
+    "line_additions": 3345,
+    "line_deletions": 1675,
+    "line_changes": 5020
+  },
+  {
+    "login": "rikonor",
+    "total_files_effected": 71,
+    "line_additions": 3211,
+    "line_deletions": 565,
+    "line_changes": 3776
+  },
+  {
+    "login": "Dfinity-skaestle",
+    "total_files_effected": 97,
+    "line_additions": 1814,
+    "line_deletions": 691,
+    "line_changes": 2505
+  },
+  {
+    "login": "maksymar",
+    "total_files_effected": 81,
+    "line_additions": 3043,
+    "line_deletions": 928,
+    "line_changes": 3971
+  },
+  {
+    "login": "randombit",
+    "total_files_effected": 137,
+    "line_additions": 6304,
+    "line_deletions": 5109,
+    "line_changes": 11413
+  },
+  {
+    "login": "DanielThurau",
+    "total_files_effected": 158,
+    "line_additions": 8500,
+    "line_deletions": 3462,
+    "line_changes": 11962
+  },
+  {
+    "login": "Bownairo",
+    "total_files_effected": 152,
+    "line_additions": 3722,
+    "line_deletions": 2880,
+    "line_changes": 6602
+  },
+  {
+    "login": "daniel-wong-dfinity-org",
+    "total_files_effected": 106,
+    "line_additions": 5852,
+    "line_deletions": 2320,
+    "line_changes": 8172
+  },
+  {
+    "login": "max-dfinity",
+    "total_files_effected": 90,
+    "line_additions": 3093,
+    "line_deletions": 1720,
+    "line_changes": 4813
+  },
+  {
+    "login": "mraszyk",
+    "total_files_effected": 227,
+    "line_additions": 13288,
+    "line_deletions": 905,
+    "line_changes": 14193
+  },
+  {
+    "login": "dfinity-berestovskyy",
+    "total_files_effected": 142,
+    "line_additions": 2825,
+    "line_deletions": 1908,
+    "line_changes": 4733
+  },
+  {
+    "login": "alin-at-dfinity",
+    "total_files_effected": 70,
+    "line_additions": 1575,
+    "line_deletions": 771,
+    "line_changes": 2346
+  },
+  {
+    "login": "dsarlis",
+    "total_files_effected": 151,
+    "line_additions": 3453,
+    "line_deletions": 1310,
+    "line_changes": 4763
+  },
+  {
+    "login": "eichhorl",
+    "total_files_effected": 52,
+    "line_additions": 1205,
+    "line_deletions": 120,
+    "line_changes": 1325
+  },
+  {
+    "login": "anchpop",
+    "total_files_effected": 216,
+    "line_additions": 6207,
+    "line_deletions": 1861,
+    "line_changes": 8068
+  },
+  {
+    "login": "mbjorkqvist",
+    "total_files_effected": 163,
+    "line_additions": 4808,
+    "line_deletions": 3249,
+    "line_changes": 8057
+  },
+  {
+    "login": "leokazz",
+    "total_files_effected": 144,
+    "line_additions": 4652,
+    "line_deletions": 1106,
+    "line_changes": 5758
+  },
+  {
+    "login": "MarioDfinity",
+    "total_files_effected": 30,
+    "line_additions": 1930,
+    "line_deletions": 183,
+    "line_changes": 2113
+  },
+  {
+    "login": "zoran-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "altkdf",
+    "total_files_effected": 289,
+    "line_additions": 8837,
+    "line_deletions": 6694,
+    "line_changes": 15531
+  },
+  {
+    "login": "Daniel-Bloom-dfinity",
+    "total_files_effected": 35,
+    "line_additions": 2373,
+    "line_deletions": 786,
+    "line_changes": 3159
+  },
+  {
+    "login": "fspreiss",
+    "total_files_effected": 101,
+    "line_additions": 3134,
+    "line_deletions": 2104,
+    "line_changes": 5238
+  },
+  {
+    "login": "Sawchord",
+    "total_files_effected": 89,
+    "line_additions": 2222,
+    "line_deletions": 890,
+    "line_changes": 3112
+  },
+  {
+    "login": "ielashi",
+    "total_files_effected": 24,
+    "line_additions": 411,
+    "line_deletions": 92,
+    "line_changes": 503
+  },
+  {
+    "login": "AlexandraZapuc",
+    "total_files_effected": 156,
+    "line_additions": 3341,
+    "line_deletions": 1202,
+    "line_changes": 4543
+  },
+  {
+    "login": "chmllr",
+    "total_files_effected": 39,
+    "line_additions": 334,
+    "line_deletions": 499,
+    "line_changes": 833
+  },
+  {
+    "login": "NikolasHai",
+    "total_files_effected": 30,
+    "line_additions": 1121,
+    "line_deletions": 298,
+    "line_changes": 1419
+  },
+  {
+    "login": "schneiderstefan",
+    "total_files_effected": 46,
+    "line_additions": 2152,
+    "line_deletions": 690,
+    "line_changes": 2842
+  },
+  {
+    "login": "jasonz-dfinity",
+    "total_files_effected": 191,
+    "line_additions": 8523,
+    "line_deletions": 5118,
+    "line_changes": 13641
+  },
+  {
+    "login": "stiegerc",
+    "total_files_effected": 512,
+    "line_additions": 3028,
+    "line_deletions": 1805,
+    "line_changes": 4833
+  },
+  {
+    "login": "pakhomov-dfinity",
+    "total_files_effected": 9,
+    "line_additions": 266,
+    "line_deletions": 149,
+    "line_changes": 415
+  },
+  {
+    "login": "ninegua",
+    "total_files_effected": 9,
+    "line_additions": 30,
+    "line_deletions": 24,
+    "line_changes": 54
+  },
+  {
+    "login": "dfinity-ryancroote",
+    "total_files_effected": 30,
+    "line_additions": 2115,
+    "line_deletions": 58,
+    "line_changes": 2173
+  },
+  {
+    "login": "yvonneanne",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "qj-yu",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "cgundy",
+    "total_files_effected": 30,
+    "line_additions": 415,
+    "line_deletions": 416,
+    "line_changes": 831
+  },
+  {
+    "login": "eust-dfinity",
+    "total_files_effected": 68,
+    "line_additions": 1834,
+    "line_deletions": 2085,
+    "line_changes": 3919
+  },
+  {
+    "login": "nathanosdev",
+    "total_files_effected": 48,
+    "line_additions": 936,
+    "line_deletions": 376,
+    "line_changes": 1312
+  },
+  {
+    "login": "r-birkner",
+    "total_files_effected": 64,
+    "line_additions": 4019,
+    "line_deletions": 266,
+    "line_changes": 4285
+  },
+  {
+    "login": "przydatek",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "frederikrothenberger",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "hcbdfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "sasa-tomic",
+    "total_files_effected": 62,
+    "line_additions": 856,
+    "line_deletions": 1328,
+    "line_changes": 2184
+  },
+  {
+    "login": "mahir-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "kpop-dfinity",
+    "total_files_effected": 123,
+    "line_additions": 6099,
+    "line_deletions": 4620,
+    "line_changes": 10719
+  },
+  {
+    "login": "rstout",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "maciejdfinity",
+    "total_files_effected": 89,
+    "line_additions": 1628,
+    "line_deletions": 624,
+    "line_changes": 2252
+  },
+  {
+    "login": "venkkatesh-sekar",
+    "total_files_effected": 44,
+    "line_additions": 716,
+    "line_deletions": 277,
+    "line_changes": 993
+  },
+  {
+    "login": "andrewbattat",
+    "total_files_effected": 39,
+    "line_additions": 637,
+    "line_deletions": 229,
+    "line_changes": 866
+  },
+  {
+    "login": "blind-oracle",
+    "total_files_effected": 156,
+    "line_additions": 4708,
+    "line_deletions": 2370,
+    "line_changes": 7078
+  },
+  {
+    "login": "fxgst",
+    "total_files_effected": 115,
+    "line_additions": 4463,
+    "line_deletions": 2230,
+    "line_changes": 6693
+  },
+  {
+    "login": "jean-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "DSharifi",
+    "total_files_effected": 72,
+    "line_additions": 3827,
+    "line_deletions": 1948,
+    "line_changes": 5775
+  },
+  {
+    "login": "michael-weigelt",
+    "total_files_effected": 84,
+    "line_additions": 3268,
+    "line_deletions": 2510,
+    "line_changes": 5778
+  },
+  {
+    "login": "rsubramaniyam",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "dist1ll",
+    "total_files_effected": 71,
+    "line_additions": 2018,
+    "line_deletions": 987,
+    "line_changes": 3005
+  },
+  {
+    "login": "marcin-dziadus",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "dragoljub-duric",
+    "total_files_effected": 49,
+    "line_additions": 1366,
+    "line_deletions": 89,
+    "line_changes": 1455
+  },
+  {
+    "login": "rrkapitz",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "raymondk",
+    "total_files_effected": 1,
+    "line_additions": 1,
+    "line_deletions": 0,
+    "line_changes": 1
+  },
+  {
+    "login": "derlerd-dfinity",
+    "total_files_effected": 27,
+    "line_additions": 402,
+    "line_deletions": 297,
+    "line_changes": 699
+  },
+  {
+    "login": "tmu0",
+    "total_files_effected": 5,
+    "line_additions": 72,
+    "line_deletions": 28,
+    "line_changes": 100
+  },
+  {
+    "login": "ShuoWangNSL",
+    "total_files_effected": 24,
+    "line_additions": 720,
+    "line_deletions": 87,
+    "line_changes": 807
+  },
+  {
+    "login": "khushboo-dfn",
+    "total_files_effected": 48,
+    "line_additions": 365,
+    "line_deletions": 174,
+    "line_changes": 539
+  },
+  {
+    "login": "dralves",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "gitlab-dfinity",
+    "total_files_effected": 377,
+    "line_additions": 377,
+    "line_deletions": 377,
+    "line_changes": 754
+  },
+  {
+    "login": "colonelpanic8",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "andreacerulli",
+    "total_files_effected": 25,
+    "line_additions": 295,
+    "line_deletions": 484,
+    "line_changes": 779
+  },
+  {
+    "login": "stefanneamtu",
+    "total_files_effected": 58,
+    "line_additions": 1762,
+    "line_deletions": 701,
+    "line_changes": 2463
+  },
+  {
+    "login": "jplevyak",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "kobi-lizard",
+    "total_files_effected": 62,
+    "line_additions": 1220,
+    "line_deletions": 696,
+    "line_changes": 1916
+  },
+  {
+    "login": "dfinityianblenke",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "bitdivine",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "yotamhc",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "alejandrodfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "keplervital",
+    "total_files_effected": 16,
+    "line_additions": 281,
+    "line_deletions": 25,
+    "line_changes": 306
+  },
+  {
+    "login": "joeodfinity",
+    "total_files_effected": 2,
+    "line_additions": 0,
+    "line_deletions": 2,
+    "line_changes": 2
+  },
+  {
+    "login": "garym-dfinity",
+    "total_files_effected": 36,
+    "line_additions": 2024,
+    "line_deletions": 967,
+    "line_changes": 2991
+  },
+  {
+    "login": "nzoghb",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "nikola-milosa",
+    "total_files_effected": 35,
+    "line_additions": 1807,
+    "line_deletions": 63,
+    "line_changes": 1870
+  },
+  {
+    "login": "alexandru-uta",
+    "total_files_effected": 3,
+    "line_additions": 6,
+    "line_deletions": 20,
+    "line_changes": 26
+  },
+  {
+    "login": "m4rtinkoenig",
+    "total_files_effected": 18,
+    "line_additions": 351,
+    "line_deletions": 232,
+    "line_changes": 583
+  },
+  {
+    "login": "robin-kunzler",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "nabdullindfinity",
+    "total_files_effected": 19,
+    "line_additions": 561,
+    "line_deletions": 298,
+    "line_changes": 859
+  },
+  {
+    "login": "manudrijvers",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "LaraAS",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "hugolgst",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "Luka-DFINITY",
+    "total_files_effected": 15,
+    "line_additions": 295,
+    "line_deletions": 192,
+    "line_changes": 487
+  },
+  {
+    "login": "sesi200",
+    "total_files_effected": 7,
+    "line_additions": 597,
+    "line_deletions": 78,
+    "line_changes": 675
+  },
+  {
+    "login": "dfinity-bot",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "Mrngilles",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "lwshang",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "mstein-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "martina-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "geekmush",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "ggreif",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "pietrodimarco-dfinity",
+    "total_files_effected": 1,
+    "line_additions": 1,
+    "line_deletions": 1,
+    "line_changes": 2
+  },
+  {
+    "login": "BenjaminLoison",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "bogwar",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "DFINITYManu",
+    "total_files_effected": 5,
+    "line_additions": 29,
+    "line_deletions": 1,
+    "line_changes": 30
+  },
+  {
+    "login": "THLO",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "bjoernek",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "dskloetd",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "farazshaikh",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "TerrorJack",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "georgi-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "oggy-dfin",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "ryancammer",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "tmshlvck",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "Dfinity-Bjoern",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "eduarddfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "ericswanson-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "anandsuresh",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "benradf",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "hldfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "jwndlng",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "janeshchhabra",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "jeff-anderson-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "jwiegley",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "krpeacock",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "mstrasinskis",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "smallstepman",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "rzakrzyk",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "rsundar01",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "chenyan-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "lmuntaner",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "dietersommer",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "googleson78",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "aumayrlukas",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "letmejustputthishere",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "roelstorms",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "SamuelChien123",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  },
+  {
+    "login": "victorshoup-dfinity",
+    "total_files_effected": 0,
+    "line_additions": 0,
+    "line_deletions": 0,
+    "line_changes": 0
+  }
+]
